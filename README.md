@@ -75,7 +75,7 @@ After this, you should be able to build the entire workspace successfully.
 
 - [ros2_rust GitHub Repository](https://github.com/ros2-rust/ros2_rust)
 - [ROS 2 Humble Tutorial: Creating Custom Interfaces](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Custom-ROS2-Interfaces.html)
-
+- [ROS 2 RUST - Example: String Length Node](https://foxglove.dev/blog/first-steps-using-rust-with-ros2)
 ---
 
 Happy coding with ROS2 and Rust!
