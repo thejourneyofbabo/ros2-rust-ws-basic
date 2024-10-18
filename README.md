@@ -10,7 +10,7 @@ pip install git+https://github.com/colcon/colcon-cargo.git
 pip install git+https://github.com/colcon/colcon-ros-cargo.git
 
 mkdir -p workspace/src && cd workspace
-git clone https://github.com/thejourneyofbabo/ros2-rust-ws-basic.git src/
+git clone https://github.com/thejourneyofbabo/ros2-rust-ws-basic.git src/ros2_rust
 vcs import src < src/ros2_rust/ros2_rust_humble.repos
 . /opt/ros/humble/setup.sh
 colcon build
